@@ -14,3 +14,8 @@ cd vars/
 vim main.yml 
 cd templates/
 vim datos_alumno.txt 
+vim main.yml 
+cd templates/
+vim datos_equipo.txt 
+cd vars/
+vim main.yml 
